@@ -5,7 +5,7 @@
     "type": "Boxing",
     "localTime": "06:00",
     "description": "Boxing match between Jake Paul and Gervonta 'Tank' Davis.",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Jake_Paul_vs_Tank_Davis_fight_poster.jpg/255px-Jake_Paul_vs_Tank_Davis_fight_poster.jpg"
+    "imageUrl": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/ccf7/live/fc5e0710-9858-11f0-b567-dbb771c68d85.jpg"
   },
   {
     "date": "15-11-2025",
@@ -45,6 +45,6 @@
     "type": "Movie",
     "localTime": "NA",
     "description": "Feature-length film continuation of the Star Wars Mandalorian series.",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/The_Mandalorian_and_Grogu_poster.jpg/250px-The_Mandalorian_and_Grogu_poster.jpg"
+    "imageUrl": "https://lumiere-a.akamaihd.net/v1/images/din-djarin-the-mandalorian-main_38344f24.jpeg?region=106%2C64%2C1622%2C1215"
   }
 ]
