@@ -1,0 +1,50 @@
+[
+  {
+    "date": "14-11-2025",
+    "title": "Jake Paul vs Gervonta Davis",
+    "type": "Boxing",
+    "localTime": "06:00",
+    "description": "Boxing match between Jake Paul and Gervonta 'Tank' Davis.",
+    "imageUrl": "https://example.com/paul-vs-davis.jpg"
+  },
+  {
+    "date": "15-11-2025",
+    "title": "Islam vs JDM",
+    "type": "UFC",
+    "localTime": "05:00",
+    "description": "UFC fight between Islam Makhachev and Jack Della Maddalena.",
+    "imageUrl": "https://ufc.com/images/styles/background_image_xl/s3/2025-10/111525-ufc-322-della-maddalena-vs-makhachev-EVENT-ART.jpg?h=d1cb525d&itok=gub9PBZL"
+  },
+  {
+    "date": "22-11-2025",
+    "title": "Tsarukyan vs Hooker + Belal vs Ian Garry",
+    "type": "UFC",
+    "localTime": "05:00",
+    "description": "Double UFC event featuring Tsarukyan vs Hooker and Belal Muhammad vs Ian Garry.",
+    "imageUrl": "https://ufc.com/images/styles/background_image_xl/s3/2025-10/112225-ufc-fight-night-tsarukyan-vs-hooker-EVENT-ART.jpg?h=d1cb525d&itok=oLCDYRfv"
+  },
+  {
+    "date": "06-12-2025",
+    "title": "Merab vs Yan + Pantoja vs Van",
+    "type": "UFC",
+    "localTime": "06:30",
+    "description": "UFC card headlined by Merab Dvalishvili vs Petr Yan and Pantoja vs Steve Erceg.",
+    "imageUrl": "https://ufc.com/images/styles/background_image_xl/s3/2025-10/120625-ufc-323-dvalishvili-vs-yan-2-TEMP-HERO.jpg?h=d1cb525d&itok=wX2SX6GH"
+  },
+  {
+    "date": "31-07-2026",
+    "title": "Spider-Man: Brand New Day",
+    "type": "Movie",
+    "localTime": "NA",
+    "description": "Upcoming Marvel film in the Spider-Man franchise.",
+    "imageUrl": "https://example.com/spiderman-brand-new-day.jpg"
+  },
+  {
+    "date": "22-09-2026",
+    "title": "The Mandalorian Movie",
+    "type": "Movie",
+    "localTime": "NA",
+    "description": "Feature-length film continuation of the Star Wars Mandalorian series.",
+    "imageUrl": "https://example.com/mandalorian-movie.jpg"
+  }
+]
