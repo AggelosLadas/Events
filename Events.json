@@ -16,14 +16,6 @@
     "imageUrl": "https://ufc.com/images/styles/background_image_xl/s3/2025-10/111525-ufc-322-della-maddalena-vs-makhachev-EVENT-ART.jpg?h=d1cb525d&itok=gub9PBZL"
   },
   {
-    "date": "20-11-2025",
-    "title": "Andrew Tate vs Chase DeMoor",
-    "type": "Boxing",
-    "localTime": "NA",
-    "description": "Boxing match between Tate and DeMoor. Not 100% confirmed.",
-    "imageUrl": "https://sidekickboxing.co.uk/wp-content/uploads/2025/10/IMG_1296-1024x576.jpeg"
-  },
-  {
     "date": "22-11-2025",
     "title": "Tsarukyan vs Hooker + Belal vs Ian Garry",
     "type": "UFC",
@@ -38,6 +30,14 @@
     "localTime": "06:00",
     "description": "UFC card headlined by Merab Dvalishvili vs Petr Yan and Pantoja vs Steve Erceg.",
     "imageUrl": "https://ufc.com/images/styles/background_image_xl/s3/2025-10/120625-ufc-323-dvalishvili-vs-yan-2-TEMP-HERO.jpg?h=d1cb525d&itok=wX2SX6GH"
+  },
+{
+    "date": "20-12-2025",
+    "title": "Andrew Tate vs Chase DeMoor",
+    "type": "Boxing",
+    "localTime": "NA",
+    "description": "Boxing match between Tate and DeMoor. Not 100% confirmed.",
+    "imageUrl": "https://sidekickboxing.co.uk/wp-content/uploads/2025/10/IMG_1296-1024x576.jpeg"
   },
   {
     "date": "31-07-2026",
