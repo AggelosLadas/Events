@@ -1,29 +1,21 @@
 [
-{
+  {
   "date": "22-11-2025",
   "title": "Tsarukyan vs Hooker + Belal vs Ian Garry",
   "type": "UFC",
   "localTime": "21:00",
   "description": "Double UFC event featuring Tsarukyan vs Hooker and Belal Muhammad vs Ian Garry.",
   "imageUrl": "https://ufc.com/images/styles/background_image_xl/s3/2025-10/112225-ufc-fight-night-tsarukyan-vs-hooker-EVENT-ART.jpg?h=d1cb525d&itok=oLCDYRfv"
-},
-{
+  },
+  {
   "date": "06-12-2025",
   "title": "Merab vs Yan + Pantoja vs Van",
   "type": "UFC",
   "localTime": "06:00",
   "description": "UFC card headlined by Merab Dvalishvili vs Petr Yan and Pantoja vs Steve Erceg.",
   "imageUrl": "https://ufc.com/images/styles/background_image_xl/s3/2025-10/120625-ufc-323-dvalishvili-vs-yan-2-TEMP-HERO.jpg?h=d1cb525d&itok=wX2SX6GH"
-},
-{
-    "date": "19-12-2025",
-    "title": "Jake Paul vs Anthony Joshua",
-    "type": "Boxing",
-    "localTime": "N/A",
-    "description": "Jake getting cooked btw",
-    "imageUrl": "https://pbs.twimg.com/media/G5rTyFtXAAAUR2B.jpg"
   },
-{
+  {
     "date": "20-12-2025",
     "title": "Andrew Tate vs Chase DeMoor",
     "type": "Boxing",
