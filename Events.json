@@ -24,12 +24,28 @@
     "imageUrl": "https://sidekickboxing.co.uk/wp-content/uploads/2025/10/IMG_1296-1024x576.jpeg"
   },
   {
+    "date": "24-01-2026",
+    "title": "Gaethje vs Pimblett + O'Malley vs Yadong",
+    "type": "UFC 324",
+    "localTime": "6:00",
+    "description": "Letsgooo",
+    "imageUrl": "https://ufc.com/images/styles/background_image_xl/s3/2025-11/UFC-324_justin-gaethje-vs-paddy-pimblett.jpg?h=d1cb525d&itok=-6bPGDk_"
+  },
+  {
     "date": "31-07-2026",
     "title": "Spider-Man: Brand New Day",
     "type": "Movie",
     "localTime": "NA",
     "description": "Upcoming Marvel film in the Spider-Man franchise.",
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTJhZGE3NmYtYTg0Ny00MWUzLWE0MmUtYTZjYTg1ZjVlMWRkXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "date": "31-01-2026",
+    "title": "Volkanovski vs Lopes 2",
+    "type": "UFC 325",
+    "localTime": "6:00",
+    "description": "Volk reign is just starting",
+    "imageUrl": "https://ufc.com/images/styles/background_image_xl/s3/2025-11/UFC-325_alexander-volkanovski-vs-diego-lopes-2.jpg?h=d1cb525d&itok=dzzzHRbr"
   },
   {
     "date": "22-09-2026",
