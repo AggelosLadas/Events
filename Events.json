@@ -62,5 +62,13 @@
     "localTime": "NA",
     "description": "Feature-length film continuation of the Star Wars Mandalorian series.",
     "imageUrl": "https://lumiere-a.akamaihd.net/v1/images/din-djarin-the-mandalorian-main_38344f24.jpeg?region=106%2C64%2C1622%2C1215"
+  },
+  {
+    "date": "18-12-2026",
+    "title": "Avengers: Doomsday",
+    "type": "Movie",
+    "localTime": "NA",
+    "description": "THE movie.",
+    "imageUrl": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/10/avengers-doomsday-filming-start.jpg?w=1600&h=900&fit=crop"
   }
 ]
