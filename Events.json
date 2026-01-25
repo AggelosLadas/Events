@@ -1,13 +1,5 @@
 [
   {
-    "date": "24-01-2026",
-    "title": "Gaethje vs Pimblett + O'Malley vs Yadong",
-    "type": "UFC 324",
-    "localTime": "6:00",
-    "description": "Gaethje retirement??",
-    "imageUrl": "https://ufc.com/images/styles/background_image_xl/s3/2025-11/UFC-324_justin-gaethje-vs-paddy-pimblett.jpg?h=d1cb525d&itok=-6bPGDk_"
-  },
-  {
     "date": "27-01-2026",
     "title": "Marvels Wonder Man Episode 1",
     "type": "Marvel",
@@ -38,6 +30,14 @@
     "localTime": "6:00",
     "description": "DOOOBRONXXXX",
     "imageUrl": "https://ufc.com/images/styles/background_image_xl/s3/2025-12/030726-ufc-326-holloway-vs-oliveira-2-TEMP-HERO.jpg?h=d1cb525d&itok=QOWKIl7V"
+  },
+  {
+    "date": "18-03-2026",
+    "title": "Invincible Season 4 Episode 1",
+    "type": "Series",
+    "localTime": "N/A",
+    "description": "Season 4 pilot.",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/VYUKmWxb2pquPQLBPYQqGC.jpg"
   },
   {
     "date": "08-04-2026",
